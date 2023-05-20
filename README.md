@@ -1,6 +1,6 @@
 # single-note-identification
 identify single-note of piano with machine learning "CNN".  
-This repository is the revised version of the commit messages from the repository created in 2021.
+___This repository is the revised version of the commit messages from the repository created in 2021.___
 
 ## Important
 This program use "The NSynth Dataset".  
